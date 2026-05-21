@@ -1,1 +1,10 @@
-# Placeholder for results/svm/rbf_kernel_results.txt
+SVM Results
+==================================================
+dataset: iris
+kernel: rbf
+optimizer: auto
+C: 1.0
+gamma: None
+degree: 3
+coef0: 1.0
+test_accuracy: 0.900000

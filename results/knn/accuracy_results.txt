@@ -1,1 +1,9 @@
-# Placeholder for results/knn/accuracy_results.txt
+KNN Results
+==================================================
+dataset: iris
+k: 5
+validation_best_k: 3
+validation_best_error: 0.000000
+metric: euclidean
+weighted: False
+test_accuracy: 0.966667
