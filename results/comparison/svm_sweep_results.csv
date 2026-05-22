@@ -1,0 +1,7 @@
+dataset,normalization,kernel,C,gamma,n_iters,optimizer,accuracy,train_eval_seconds
+iris,minmax,linear,2.0,,80,sgd,0.6666666666666666,1.5337
+iris,minmax,linear,0.5,,80,sgd,0.6666666666666666,1.6777
+iris,minmax,linear,1.0,,80,sgd,0.6666666666666666,1.8761
+iris,minmax,linear,0.5,,120,sgd,0.6666666666666666,2.8452
+iris,minmax,linear,1.0,,120,sgd,0.6666666666666666,2.9837
+iris,minmax,linear,2.0,,120,sgd,0.6666666666666666,3.6097
